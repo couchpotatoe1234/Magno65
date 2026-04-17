@@ -1,2 +1,3 @@
 ## Magno65
-After looking at some keyboard mounting types, I came across a strange and exotic seeming mounting style. Magnet mounting.(i think thats what its called) It will be plateless and use N52 Neodymium magnets partly because I don't want to design a plate and also because I want a very flexy keyboard.
+After weeks of hard work, here it is. The Magno65.
+![Screenshot 2026-04-16 at 6.49.17 PM](https://stasis.hackclub-assets.com/images/1776441740199-fgnm2s.png)
